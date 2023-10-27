@@ -2,11 +2,11 @@
 Welcome to BAS.AI, a cutting-edge Python innovation tailored to empower data analysts and transform their corporate ventures. 
 Our mission is to effortlessly elevate your professional journey by delivering unmatched efficiency, simplicity, and satisfaction. 
 
-> Visit our website - [Bas.AI.com](https://basaitech.wixsite.com/bas-ai)
+> **Visit our website - [Bas.AI.com](https://basaitech.wixsite.com/bas-ai)**
 
-Feel free to add a comment in the reviews section on our website!!!
+**Feel free to add a comment in the reviews section on our website!!!**
 
-Website also includes the outputs to the respective codes feel free to view them!!
+**Website also includes the outputs to the respective codes feel free to view them!!**
 
 ![pexels-pavel-danilyuk-8439093](https://github.com/d4r534/Bas.AI/assets/110873154/e323b473-769b-47e1-9d9a-b53041c1d474)
 
