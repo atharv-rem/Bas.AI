@@ -8,6 +8,8 @@ Our mission is to effortlessly elevate your professional journey by delivering u
 
 **Website also includes the outputs to the respective codes feel free to view them!!**
 
+**Made in collaboration with @Bhavya and @Saket**
+
 ![pexels-pavel-danilyuk-8439093](https://github.com/d4r534/Bas.AI/assets/110873154/e323b473-769b-47e1-9d9a-b53041c1d474)
 
 ## Word-Bas.AI
@@ -24,5 +26,3 @@ Sending data to multiple recipients has never been easier. Our Email Sender modu
 
 ## GUI-Bas.AI
 Yet, there's more to our offering! What truly differentiates BAS.AI is its interactive user interface. We have meticulously crafted an intuitive and user-centric experience, ensuring that you harness the full potential of our tools without any learning curve.
-
-## Reference Book
