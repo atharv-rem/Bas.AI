@@ -1,4 +1,5 @@
 
+
 # Bas.AI
 Welcome to BAS.AI, a cutting-edge Python innovation tailored to empower data analysts and transform their corporate ventures. 
 Our mission is to effortlessly elevate your professional journey by delivering unmatched efficiency, simplicity, and satisfaction. 
@@ -9,6 +10,17 @@ Our mission is to effortlessly elevate your professional journey by delivering u
 [![GitHub Views](https://komarev.com/ghpvc/?username=d4r534&label=Views)](https://github.com/d4r534/Bas.AI)
 
 [![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=d4r534&repo=Bas.AI&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=000000)](https://github.com/d4r534/Bas.AI)
+
+> [!NOTE]
+> An essential prerequisite for enabling the AI feature is the possession of your OpenAI key. Without it, the AI functionality will not be operational.
+> To the functionality of the Email code, it is imperative for users to acquire the necessary access key for their Gmail account. Without this access key, the code will not be functional.
+> It is important to emphasize the inclusion of the file path in all code instances. Failure to do so will render the code inoperable and non-executable."
+
+> [!IMPORTANT]
+> All four products are compatible with our graphical user interface (GUI) and are specifically designed to serve distinct professional niches, primarily targeting data analysts. It is worth noting that the underlying code can be adapted and repurposed to address a broader range of requirements and use cases.
+
+> [!WARNING]
+> Please be advised that the outcomes may exhibit variations and might not consistently align with the illustrations presented on our website. Although these were derived from actual input data, individual results may fluctuate based on the specific characteristics of your dataset. It is advisable to conduct preliminary testing, as the code may not be fully optimized to accommodate all potential scenarios.
 
 **Feel free to add a comment in the reviews section on our website!!!**
 
