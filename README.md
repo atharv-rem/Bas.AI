@@ -28,8 +28,6 @@ Our mission is to effortlessly elevate your professional journey by delivering u
 
 **Made in collaboration with @Bhavya and @Saket**
 
-![pexels-pavel-danilyuk-8439093](https://github.com/d4r534/Bas.AI/assets/110873154/e323b473-769b-47e1-9d9a-b53041c1d474)
-
 ## Word-Bas.AI
 With the Word module, bid farewell to mundane formatting tasks. Enter your data, and watch in awe as our Word Wizard automatically applies styles and formatting, turning your documents into polished masterpieces.
 
