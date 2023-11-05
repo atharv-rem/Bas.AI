@@ -3,12 +3,12 @@
 Welcome to BAS.AI, a cutting-edge Python innovation tailored to empower data analysts and transform their corporate ventures. 
 Our mission is to effortlessly elevate your professional journey by delivering unmatched efficiency, simplicity, and satisfaction. 
 
+> [![Visit Website](https://img.shields.io/badge/Visit%20Website-Click%20Here-black?style=for-the-badge)](https://basaitech.wixsite.com/bas-ai)
+> [![Add review](https://img.shields.io/badge/Add%20Review-Click%20Here-black?style=for-the-badge)](https://basaitech.wixsite.com/bas-ai/reviews)
+
 [![GitHub Views](https://komarev.com/ghpvc/?username=d4r534&label=Views)](https://github.com/d4r534/Bas.AI)
 
 [![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=d4r534&repo=Bas.AI&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=000000)](https://github.com/d4r534/Bas.AI)
-
-
-> **Visit our website - [Bas.AI.com](https://basaitech.wixsite.com/bas-ai)**
 
 **Feel free to add a comment in the reviews section on our website!!!**
 
