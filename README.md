@@ -1,4 +1,4 @@
-
+![image](https://github.com/d4r534/Bas.AI/assets/110873154/2cec47c5-7b09-410b-a71f-88d82058b1e2)
 
 # Bas.AI
 Welcome to BAS.AI, a cutting-edge Python innovation tailored to empower data analysts and transform their corporate ventures. 
