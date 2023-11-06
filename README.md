@@ -25,7 +25,7 @@ Feel free to leave your comments, suggestions, and feedback in our
 > [!NOTE]
 > An essential prerequisite for enabling the AI feature is the possession of your OpenAI key. Without it, the AI functionality will not be operational.
 > To the functionality of the Email code, it is imperative for users to acquire the necessary access key for their Gmail account. Without this access key, the code will not be functional.
-> It is important to emphasize the inclusion of the file path in all code instances. Failure to do so will render the code inoperable and non-executable."
+> It is important to emphasize the inclusion of the file path in all code instances. Failure to do so will render the code inoperable and non-executable.
 
 > [!IMPORTANT]
 > All four products are compatible with our graphical user interface (GUI) and are specifically designed to serve distinct professional niches, primarily targeting data analysts. It is worth noting that the underlying code can be adapted and repurposed to address a broader range of requirements and use cases.
