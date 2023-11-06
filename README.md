@@ -22,10 +22,8 @@ Feel free to leave your comments, suggestions, and feedback in our
 
 
 ## Share our work
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%20170%20free%20design%20blocks%20based%20on%20Bootstrap%204&url=https://froala.com/design-blocks&via=froala&hashtags=bootstrap,design,templates,blocks,developers)
-[![Share on Instagram](https://img.shields.io/badge/Instagram-Share-black?logo=instagram)](https://www.instagram.com/sharer.php?u=https://your-website-url-here)
-[![Share on Facebook](https://img.shields.io/badge/Facebook-Share-black?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://your-website-url-here)
-[![Share on LinkedIn](https://img.shields.io/badge/LinkedIn-Share-black?logo=linkedin)](https://www.linkedin.com/sharing/share-offsite/?url=https://your-website-url-here)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg-black?)](https://twitter.com/intent/tweet?text=Get%20over%20170%20free%20design%20blocks%20based%20on%20Bootstrap%204&url=https://froala.com/design-blocks&via=froala&hashtags=bootstrap,design,templates,blocks,developers)
+[![Share on LinkedIn](https://img.shields.io/badge/Share-black?logo=linkedin)](https://www.linkedin.com/sharing/share-offsite/?url=https://your-website-url-here)
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=d4r534&label=Views)](https://github.com/d4r534/Bas.AI)
 
