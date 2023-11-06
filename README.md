@@ -1,6 +1,13 @@
 ![image](https://github.com/d4r534/Bas.AI/assets/110873154/2cec47c5-7b09-410b-a71f-88d82058b1e2)
 
 # Bas.AI
+[![Excel](https://img.shields.io/badge/Excel-008000?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://your-link-here)
+[![UI Design](https://img.shields.io/badge/UI%20Design-EAA52C?style=for-the-badge&labelColor=purple)](https://your-ui-design-link-here)
+[![PowerPoint](https://img.shields.io/badge/PowerPoint-FF4F28?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://your-link-here)
+[![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://your-link-here)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://your-link-here)
+[![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://your-link-here)
+
 Welcome to BAS.AI, a cutting-edge Python innovation tailored to empower data analysts and transform their corporate ventures. 
 Our mission is to effortlessly elevate your professional journey by delivering unmatched efficiency, simplicity, and satisfaction. 
 
