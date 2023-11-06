@@ -30,7 +30,7 @@ Feel free to leave your comments, suggestions, and feedback on our
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg-black?)](https://twitter.com/intent/tweet?text=Get%20over%20170%20free%20design%20blocks%20based%20on%20Bootstrap%204&url=https://froala.com/design-blocks&via=froala&hashtags=bootstrap,design,templates,blocks,developers)
 [![Share on LinkedIn](https://img.shields.io/badge/Share-black?logo=linkedin)](https://www.linkedin.com/sharing/share-offsite/?url=https://your-website-url-here)
 [![Share on Discord](https://img.shields.io/badge/Share-black?logo=discord&style=for-the-badge)](https://discordapp.com/channels/@me?tab=popout&referrer=d4r534/Bas.AI)
-
+[![Share on Reddit](https://img.shields.io/badge/Share-000000?logo=reddit&style=for-the-badge)](https://www.reddit.com/submit?url=https://github.com/yourusername/yourrepository&title=Your%20Repository%20Title)
 
 ## Follow us on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-black?style=for-the-badge&logo=linkedin&labelColor=000000)](https://linkedin.com/in/atharvremeshanbasai)
