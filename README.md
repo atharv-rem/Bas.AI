@@ -33,6 +33,7 @@ Feel free to leave your comments, suggestions, and feedback on our
 ## Follow us on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-black?style=for-the-badge&logo=linkedin&labelColor=000000)](https://linkedin.com/in/atharvremeshanbasai)
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium&labelColor=black)](https://medium.com/@atharv.rem)
+[![Follow](https://img.shields.io/github/followers/d4r534?style=social)](https://github.com/d4r534)
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=d4r534&label=Views)](https://github.com/d4r534/Bas.AI)
 [![Stars](https://img.shields.io/badge/Stars-10-green.svg)](https://github.com/yourusername/yourrepository)
