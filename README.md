@@ -1,6 +1,6 @@
 ![image](https://github.com/d4r534/Bas.AI/assets/110873154/2cec47c5-7b09-410b-a71f-88d82058b1e2)
 
-# Bas.AI
+# Bas.AI 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=black)
 [![Excel](https://img.shields.io/badge/Excel-008000?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://your-link-here)
 [![UI Design](https://img.shields.io/badge/UI%20Design-EAA52C?style=for-the-badge&labelColor=purple)](https://your-ui-design-link-here)
@@ -13,10 +13,19 @@ Welcome to BAS.AI, a cutting-edge Python innovation tailored to empower data ana
 Our mission is to effortlessly elevate your professional journey by delivering unmatched efficiency, simplicity, and satisfaction. 
 Feel free to leave your comments, suggestions, and feedback in our 
 [Feedback and Comments](https://github.com/d4r534/Bas.AI/issues/1#issue-1978094086) issue.
+
+
 > [![Visit Website](https://img.shields.io/badge/Visit%20Website-Click%20Here-black?style=for-the-badge)](https://basaitech.wixsite.com/bas-ai)
 > [![Add review](https://img.shields.io/badge/Add%20Review-Click%20Here-black?style=for-the-badge)](https://basaitech.wixsite.com/bas-ai/reviews)
 > [![Document](https://img.shields.io/badge/EBOOK%20-Read%20Here-black?style=for-the-badge)](https://github.com/d4r534/Bas.AI/wiki)
 
+
+
+## Share our work
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%20170%20free%20design%20blocks%20based%20on%20Bootstrap%204&url=https://froala.com/design-blocks&via=froala&hashtags=bootstrap,design,templates,blocks,developers)
+[![Share on Instagram](https://img.shields.io/badge/Instagram-Share-black?logo=instagram)](https://www.instagram.com/sharer.php?u=https://your-website-url-here)
+[![Share on Facebook](https://img.shields.io/badge/Facebook-Share-black?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://your-website-url-here)
+[![Share on LinkedIn](https://img.shields.io/badge/LinkedIn-Share-black?logo=linkedin)](https://www.linkedin.com/sharing/share-offsite/?url=https://your-website-url-here)
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=d4r534&label=Views)](https://github.com/d4r534/Bas.AI)
 
