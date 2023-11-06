@@ -35,6 +35,8 @@ Feel free to leave your comments, suggestions, and feedback on our
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium&labelColor=black)](https://medium.com/@atharv.rem)
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=d4r534&label=Views)](https://github.com/d4r534/Bas.AI)
+[![Stars](https://img.shields.io/badge/Stars-10-green.svg)](https://github.com/yourusername/yourrepository)
+[![Forks](https://img.shields.io/badge/Forks-5-yellow.svg)](https://github.com/yourusername/yourrepository)
 
 [![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=d4r534&repo=Bas.AI&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=000000)](https://github.com/d4r534/Bas.AI)
 
