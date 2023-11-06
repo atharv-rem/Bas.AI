@@ -29,6 +29,8 @@ Feel free to leave your comments, suggestions, and feedback on our
 ## Share our work
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg-black?)](https://twitter.com/intent/tweet?text=Get%20over%20170%20free%20design%20blocks%20based%20on%20Bootstrap%204&url=https://froala.com/design-blocks&via=froala&hashtags=bootstrap,design,templates,blocks,developers)
 [![Share on LinkedIn](https://img.shields.io/badge/Share-black?logo=linkedin)](https://www.linkedin.com/sharing/share-offsite/?url=https://your-website-url-here)
+[![Share on Discord](https://img.shields.io/badge/Share-black?logo=discord&style=for-the-badge)](https://discordapp.com/channels/@me?tab=popout&referrer=d4r534/Bas.AI)
+
 
 ## Follow us on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-black?style=for-the-badge&logo=linkedin&labelColor=000000)](https://linkedin.com/in/atharvremeshanbasai)
@@ -36,8 +38,8 @@ Feel free to leave your comments, suggestions, and feedback on our
 [![Follow](https://img.shields.io/github/followers/d4r534?style=social)](https://github.com/d4r534)
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=d4r534&label=Views)](https://github.com/d4r534/Bas.AI)
-[![Stars](https://img.shields.io/badge/Stars-10-green.svg)](https://github.com/yourusername/yourrepository)
-[![Forks](https://img.shields.io/badge/Forks-5-yellow.svg)](https://github.com/yourusername/yourrepository)
+[![Stars](https://img.shields.io/badge/Stars-10-green.svg)](https://github.com/d4r534/Bas.AI)
+[![Forks](https://img.shields.io/badge/Forks-5-yellow.svg)](https://github.com/d4r534/Bas.AI)
 
 [![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=d4r534&repo=Bas.AI&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=000000)](https://github.com/d4r534/Bas.AI)
 
