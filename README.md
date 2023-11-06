@@ -19,10 +19,10 @@ Feel free to leave your comments, suggestions, and feedback on our
 
 > **Collaborators @Bhavya Maheshwari and @Saket Rama**
 
-
 > [![Visit Website](https://img.shields.io/badge/Visit%20Website-Click%20Here-black?style=for-the-badge)](https://basaitech.wixsite.com/bas-ai)
 > [![Add review](https://img.shields.io/badge/Add%20Review-Click%20Here-black?style=for-the-badge)](https://basaitech.wixsite.com/bas-ai/reviews)
 > [![Document](https://img.shields.io/badge/EBOOK%20-Read%20Here-black?style=for-the-badge)](https://github.com/d4r534/Bas.AI/wiki)
+> [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](https://opensource.org/licenses/MIT)
 
 
 
