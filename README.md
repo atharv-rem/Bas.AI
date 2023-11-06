@@ -1,6 +1,7 @@
 ![image](https://github.com/d4r534/Bas.AI/assets/110873154/2cec47c5-7b09-410b-a71f-88d82058b1e2)
 
 # Bas.AI
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=black)
 [![Excel](https://img.shields.io/badge/Excel-008000?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://your-link-here)
 [![UI Design](https://img.shields.io/badge/UI%20Design-EAA52C?style=for-the-badge&labelColor=purple)](https://your-ui-design-link-here)
 [![PowerPoint](https://img.shields.io/badge/PowerPoint-FF4F28?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://your-link-here)
@@ -37,17 +38,17 @@ Our mission is to effortlessly elevate your professional journey by delivering u
 
 **Made in collaboration with @Bhavya and @Saket**
 
-## Word-Bas.AI
+## Word-Bas.AI [![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://your-link-here)
 With the Word module, bid farewell to mundane formatting tasks. Enter your data, and watch in awe as our Word Wizard automatically applies styles and formatting, turning your documents into polished masterpieces.
 
-## Excel-Bas.AI
+## Excel-Bas.AI [![Excel](https://img.shields.io/badge/Excel-008000?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://your-link-here)
 Managing data in Excel has never been this smooth. Our Excel module takes your input data and creates well-organized spreadsheets with all the necessary styles and formatting applied. Say goodbye to manual data entry and hello to accurate, presentation-ready data sheets.
 
-## PPT-Bas.AI
+## PPT-Bas.AI [![PowerPoint](https://img.shields.io/badge/PowerPoint-FF4F28?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://your-link-here)
 Unleash your creativity effortlessly! Our PowerPoint module takes your data as input and transforms it into stunning presentations. You'll be amazed at how quickly it generates visually captivating slides, allowing you to focus on crafting the perfect narrative for your audience.
 
-## Email-Bas.AI
+## Email-Bas.AI [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://your-link-here)
 Sending data to multiple recipients has never been easier. Our Email Sender module lets you share your files and data with just a few clicks. No need to open Gmail separately; everything is streamlined, saving you time and hassle.
 
-## GUI-Bas.AI
+## GUI-Bas.AI [![UI Design](https://img.shields.io/badge/UI%20Design-EAA52C?style=for-the-badge&labelColor=purple)](https://your-ui-design-link-here)
 Yet, there's more to our offering! What truly differentiates BAS.AI is its interactive user interface. We have meticulously crafted an intuitive and user-centric experience, ensuring that you harness the full potential of our tools without any learning curve.
