@@ -18,9 +18,6 @@ Feel free to leave your comments, suggestions, and feedback on our
 **Please take a moment to share your thoughts in the website's reviews section. You can also explore the code outputs available on the site!**
 
 > **Collaborators @Bhavya Maheshwari and @Saket Rama**
-<div align="center">
-![VHS music video intro - Made with Clipchamp](https://github.com/d4r534/Bas.AI/assets/110873154/91929e31-4338-450e-bdba-f3ca2e669dcc)
-</div>
 
 > [![Visit Website](https://img.shields.io/badge/Visit%20Website-Click%20Here-black?style=for-the-badge)](https://basaitech.wixsite.com/bas-ai)
 > [![Add review](https://img.shields.io/badge/Add%20Review-Click%20Here-black?style=for-the-badge)](https://basaitech.wixsite.com/bas-ai/reviews)
