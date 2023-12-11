@@ -35,13 +35,13 @@ Feel free to leave your comments, suggestions, and feedback on our
 ## Follow us on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-black?style=for-the-badge&logo=linkedin&labelColor=000000)](https://linkedin.com/in/atharvremeshanbasai)
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium&labelColor=black)](https://medium.com/@atharv.rem)
-[![Follow](https://img.shields.io/github/followers/d4r534?style=social)](https://github.com/atharv-rem)
+[![Follow](https://img.shields.io/github/followers/atharv-rem?style=social)](https://github.com/atharv-rem)
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=d4r534&label=Views)](https://github.com/atharv-rem/Bas.AI)
+[![GitHub Views](https://komarev.com/ghpvc/?username=atharv-rem&label=Views)](https://github.com/atharv-rem/Bas.AI)
 [![Stars](https://img.shields.io/badge/Stars-10-green.svg)](https://github.com/atharv-rem/Bas.AI)
 [![Forks](https://img.shields.io/badge/Forks-5-yellow.svg)](https://github.com/atharv-rem/Bas.AI)
 
-[![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=d4r534&repo=Bas.AI&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=000000)](https://github.com/atharv-rem/Bas.AI)
+[![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=atharv-rem&repo=Bas.AI&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=000000)](https://github.com/atharv-rem/Bas.AI)
 
 > [!NOTE]
 > An essential prerequisite for enabling the AI feature is the possession of your OpenAI key. Without it, the AI functionality will not be operational.
@@ -54,18 +54,18 @@ Feel free to leave your comments, suggestions, and feedback on our
 > [!WARNING]
 > Please be advised that the outcomes may exhibit variations and might not consistently align with the illustrations presented on our website. Although these were derived from actual input data, individual results may fluctuate based on the specific characteristics of your dataset. It is advisable to conduct preliminary testing, as the code may not be fully optimized to accommodate all potential scenarios.
 
-## Products
-### Word-Bas.AI [![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://your-link-here)
+# Products
+## Word-Bas.AI [![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://your-link-here)
 With the Word module, bid farewell to mundane formatting tasks. Enter your data, and watch in awe as our Word Wizard automatically applies styles and formatting, turning your documents into polished masterpieces.
 
-### Excel-Bas.AI [![Excel](https://img.shields.io/badge/Excel-008000?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://your-link-here)
+## Excel-Bas.AI [![Excel](https://img.shields.io/badge/Excel-008000?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://your-link-here)
 Managing data in Excel has never been this smooth. Our Excel module takes your input data and creates well-organized spreadsheets with all the necessary styles and formatting applied. Say goodbye to manual data entry and hello to accurate, presentation-ready data sheets.
 
-### PPT-Bas.AI [![PowerPoint](https://img.shields.io/badge/PowerPoint-FF4F28?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://your-link-here)
+## PPT-Bas.AI [![PowerPoint](https://img.shields.io/badge/PowerPoint-FF4F28?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://your-link-here)
 Unleash your creativity effortlessly! Our PowerPoint module takes your data as input and transforms it into stunning presentations. You'll be amazed at how quickly it generates visually captivating slides, allowing you to focus on crafting the perfect narrative for your audience.
 
-### Email-Bas.AI [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://your-link-here)
+## Email-Bas.AI [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://your-link-here)
 Sending data to multiple recipients has never been easier. Our Email Sender module lets you share your files and data with just a few clicks. No need to open Gmail separately; everything is streamlined, saving you time and hassle.
 
-### GUI-Bas.AI [![UI Design](https://img.shields.io/badge/UI%20Design-EAA52C?style=for-the-badge&labelColor=purple)](https://your-ui-design-link-here)
+## GUI-Bas.AI [![UI Design](https://img.shields.io/badge/UI%20Design-EAA52C?style=for-the-badge&labelColor=purple)](https://your-ui-design-link-here)
 Yet, there's more to our offering! What truly differentiates BAS.AI is its interactive user interface. We have meticulously crafted an intuitive and user-centric experience, ensuring that you harness the full potential of our tools without any learning curve.
