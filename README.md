@@ -1,4 +1,4 @@
-![image](https://github.com/d4r534/Bas.AI/assets/110873154/2cec47c5-7b09-410b-a71f-88d82058b1e2)
+![Bas AI - Trim](https://github.com/atharv-rem/Bas.AI/assets/110873154/bd4c622d-b24c-4389-8f3d-ed3135f1ddac)
 
 # Bas.AI 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
