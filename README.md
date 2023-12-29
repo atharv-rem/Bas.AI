@@ -13,7 +13,7 @@
 Welcome to BAS.AI, a cutting-edge Python innovation tailored to empower data analysts and transform their corporate ventures. 
 Our mission is to effortlessly elevate your professional journey by delivering unmatched efficiency, simplicity, and satisfaction. 
 Feel free to leave your comments, suggestions, and feedback on our 
-[Feedback and Comments](https://github.com/d4r534/Bas.AI/issues/1#issue-1978094086) issue.
+<kbd>[Feedback and Comments](https://github.com/d4r534/Bas.AI/issues/1#issue-1978094086)</kbd> issue.
 
 **Please take a moment to share your thoughts in the website's reviews section. You can also explore the code outputs available on the site!**
 
